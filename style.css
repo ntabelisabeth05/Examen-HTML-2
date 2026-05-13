@@ -821,8 +821,10 @@ hr{
   .c{
     padding-bottom: 25px;
   }
-  .boutonp,
-  .boutonc{
+  .b{
+     padding-bottom: 25px;
+  }
+  .boutonp{
     margin-left: 20px;
     padding: 10px 10px;
   }
